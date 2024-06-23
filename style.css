@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: rgb(33, 31, 26);
+}
+
+.container{
+
+        display: block;
+        align-content: center;
+       
+}
