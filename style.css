@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #3e3a3a;
     margin: 0;
     padding: 0;
     display: flex;
@@ -10,7 +10,7 @@ body {
 }
 
 .container {
-    background-color: #fff;
+    background-color: #6e6767;
     padding: 20px;
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
@@ -20,11 +20,11 @@ body {
 .container p {
     margin: 10px 0;
     font-size: 16px;
-    color: #333;
+    color: #ffffff;
 }
 
 .container input[type="text"] {
-    width: 100%;
+    width: 90%;
     padding: 10px;
     margin: 10px 0;
     border: 1px solid #ccc;
@@ -37,16 +37,18 @@ body {
     margin-top: 10px;
     border: none;
     border-radius: 5px;
-    background-color: #007BFF;
+    background-color: #352422;
     color: #fff;
     font-size: 16px;
     cursor: pointer;
 }
 
 .container button:hover {
-    background-color: #0056b3;
+    background-color: #392c2c;
 }
 
 #qrcode {
+
+    margin-left: 130px;
     margin-top: 20px;
 }
